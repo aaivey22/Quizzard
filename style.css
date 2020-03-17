@@ -1,0 +1,16 @@
+body {
+    background-color: rgba(255, 204, 128, .6);
+    color: rgb(26, 35, 126);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btn {
+    background-color: rgba(255, 112, 67, .6);
+    color: white;
+    font-weight: bold;
+}
+
+/* .hideStart {
+    display: none;
+    display: inline-flex;
+} */
